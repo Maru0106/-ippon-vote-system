@@ -67,7 +67,7 @@
 {
   "sessionId": 1,
   "roundNumber": 1,
-  "judges": [...],
+  
   "votes": {
     "1": true,
     "2": false,
