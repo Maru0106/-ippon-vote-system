@@ -67,8 +67,7 @@
 {
   "sessionId": 1,
   "roundNumber": 1,
-  
-  "votes": {
+   "judges": ["審査員1", "審査員2", "審査員3", "審査員4", "審査員5"],  "votes": {
     "1": true,
     "2": false,
     "3": true,
